@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nimish's github stats](https://github-readme-stats.vercel.app/api?username=nimishverma&theme=great-gatsby)](https://github.com/nimishverma)
+[![Nimish's github stats](https://github-readme-stats.vercel.app/api?username=nimishverma&theme=great-gatsby?count_private=true?show_icons=true)](https://github.com/nimishverma)
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img>
 
 - 🔭 I’m currently working on ReactJS with various backends.
