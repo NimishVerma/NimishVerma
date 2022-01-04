@@ -5,8 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimishverma&theme=great-gatsby&count_private=true&layout=compact)](https://github.com/nimishverma)
 
 - 🔭 Working on ReactJS, Express, AWS, Typescipt
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on interesting projects that are based on Python(or Node). I am also interested in working on Simulations.
+- 👯 I’m looking to collaborate on interesting projects that are based on Python(or NodeJS). I am also interested in working on Simulations.
 <!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about Python, Java, WebD, Agent based Simulation, Optimization and Evolutionary Algorithms.
 - 📫 How to reach me: linkedin @ https://www.linkedin.com/in/nimishcodes/
