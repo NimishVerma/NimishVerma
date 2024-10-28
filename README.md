@@ -1,8 +1,6 @@
 # Hey👋 <img src="https://media.tenor.com/xWxLptH92UoAAAAi/ali-graham-lil-ye.gif"></img>
 
 
-## My Stats, though I don't know how accurate they are :thinking:
-[![Nimish's github stats](https://github-readme-stats.vercel.app/api?username=nimishverma&theme=great-gatsby&count_private=true&show_icons=true)](https://github.com/nimishverma)
 
 
 ## About me -
