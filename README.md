@@ -5,11 +5,6 @@
 [![Nimish's github stats](https://github-readme-stats.vercel.app/api?username=nimishverma&theme=great-gatsby&count_private=true&show_icons=true)](https://github.com/nimishverma)
 
 
-## I am listening to -
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nimishverma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nimishverma&redirect=true)
-
-
 ## About me -
 - 🔭 Working on big things
 - 👯 I’m looking to collaborate on interesting projects that are based on Python(or NodeJS). I am also interested in working on Simulations.
